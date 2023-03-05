@@ -22,5 +22,5 @@ Output: 784 <br>
 <img src="https://github.com/bipulsimkhada/Image/blob/main/AE%20-%20dencoder.png">
 
 
-## Imput Image VS Compressed Image VS Constructed Image
+## Input Image VS Compressed Image VS Constructed Image
 <img src="https://github.com/bipulsimkhada/Image/blob/main/ae%20-%20result.png">
